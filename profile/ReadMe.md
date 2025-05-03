@@ -1,8 +1,12 @@
 ![Logo](../NEKERNEL_ORG.png)
 
+## Project Description
+
+Free and Open-Source Operating System Stack.
+
 ## Project Roadmap
 
-Currently working towards NeKernel 0.0.3, stay tuned for updates in the Discord server!
+Currently working towards the 0.0.3 release, stay tuned for updates in the Discord server!
 
 ## Project Philosophy 
 
