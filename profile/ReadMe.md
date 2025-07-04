@@ -2,11 +2,11 @@
 
 ## Project Description
 
-Free and Open-Source Operating System Stack.
+FOSS project for research and next-gen OS design.
 
 ## Project Roadmap
 
-Currently working towards the 0.0.3 release, stay tuned for updates in the Discord server!
+Currently working towards the v1.0.0, stay tuned for updates in the discord server!
 
 - https://discord.gg/uw3pQ7ysj8
 
