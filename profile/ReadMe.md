@@ -1,4 +1,4 @@
-![Logo](/NEKERNEL_ORG.png)
+![Logo](../NEKERNEL_ORG.png)
 
 ## Project Description
 
