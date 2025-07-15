@@ -8,6 +8,8 @@ FOSS project for research and next-gen OS design.
 
 Currently working towards the v1.0.0, stay tuned for updates in the discord server!
 
+## Community
+
 - https://discord.gg/uw3pQ7ysj8
 
 ## Project Philosophy 
