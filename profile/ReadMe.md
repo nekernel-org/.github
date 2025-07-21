@@ -10,6 +10,8 @@ Currently working towards the v1.0.0, stay tuned for updates in the discord serv
 
 ## Project Community
 
+We have a community discord, join it here:
+
 - https://discord.gg/uw3pQ7ysj8
 
 ## Project Philosophy 
