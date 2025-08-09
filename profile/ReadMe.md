@@ -1,9 +1,5 @@
 ![Logo](../NEKERNEL_ORG.png)
 
-## Project Description
-
-FOSS project for research and next-gen OS design.
-
 ## Project Roadmap
 
 Currently working towards the v1.0.0, stay tuned for updates in the discord server!
@@ -16,6 +12,7 @@ We have a community discord, join it here:
 
 ## Project Philosophy 
 
-- Each **repository** was built with modularity at its core.  
+- Each **repository** is built with modularity at its core.  
 - Each **component** from **drivers** to **services** is designed to be cleanly extensible.  
 - New **tools**, **kits**, or **architectures** can be integrated without rewriting the core.
+- **correctness** over cleverness is our mantra.
