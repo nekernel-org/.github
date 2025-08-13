@@ -15,4 +15,4 @@ We have a community discord, join it here:
 - Each **repository** is built with modularity at its core.  
 - Each **component** from **drivers** to **services** is designed to be cleanly extensible.  
 - New **tools**, **kits**, or **architectures** can be integrated without rewriting the core.
-- **correctness** over cleverness is our mantra.
+- Our motto: **Correctness** over cleverness.
