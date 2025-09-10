@@ -2,7 +2,7 @@
 
 ## What's the logo?
 
-That's a Tanuki, known for their cleverness. His name is Rodger
+That's a Tanuki, known for their cleverness. His name is Rodger.
 
 ## What is NeKernel?
 
