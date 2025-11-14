@@ -25,7 +25,3 @@ We rely on those three guidelines:
 - Each **Repository** must be built with modularity at its core.  
 - Each **Components** from: **Drivers** to **Services** is to be designed as cleanly extensible.  
 - New **Tools**, **Software Kits**, and **Software Architectures** are to be integrated without rewriting everything else.
-
-## What about commercial licensing?
-
-**NeKernel.org** has two radically different version of its repositories, **SNU** and the **NeKernel organization**. If you are interested in licensing **SNU** for commercial usage, please go to http://snupowered.com
