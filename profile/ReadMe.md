@@ -2,11 +2,7 @@
 
 ## What is NeKernel.org?
 
-A Fully open-source and advanced R&D project. Available under the GPL 3.0 license.
-
-## Where do I connect with others?
-
-We have a community Discord. Join us at https://discord.gg/uw3pQ7ysj8
+A fully open-source and advanced R&D project. Available under the GPL 3.0 license.
 
 ## What are the project guidelines?
 
