@@ -2,7 +2,7 @@
 
 ## What is NeKernel.org?
 
-A fully open-source and advanced R&D project. Available under the GPL 3.0 license.
+A fully open-source and advanced R&D project. Available under the Apache 2.0 license.
 
 ## What are the project guidelines?
 
