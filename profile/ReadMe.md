@@ -1,8 +1,8 @@
 ![Logo](../NEKERNEL_ORG.png)
 
-## What is NeKernel.org?
+## What is NeKernel about?
 
-A fully open-source and advanced R&D project. Available under the Apache 2.0 license.
+An Open-Source and Free Software Operating System project, available under the Apache 2.0 license.
 
 ## What are the project guidelines?
 
