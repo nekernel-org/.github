@@ -1,8 +1,8 @@
 # NeKernel.org
 
-An Open-Source and Free Software Operating System project, available under the Apache 2.0 license.
+An Open-Source and research project written in C++, freely available under the Apache 2.0 license.
 
-## Project Prongs:
+## NeKernel's Three Prongs:
 
 - Each **Repository** must be built with modularity at its core.  
 - Each **Components** from: **Drivers** to **Services** is to be designed as cleanly extensible.  
