@@ -1,6 +1,6 @@
 # NeKernel.org
 
-An Open-Source and research project written in C++, freely available under the Apache 2.0 license.
+An Open-Source and Operating System project written in modern C++, freely available under the Apache 2.0 license.
 
 ## NeKernel's Three Prongs:
 
