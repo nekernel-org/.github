@@ -2,7 +2,7 @@
 
 ## Abstract
 
-NeKernel is an open-source OS written in modern C++, freely available under the Apache 2.0 license.
+NeKernel is an open-source OS written in C++, freely available under the Apache 2.0 license.
 
 ### The NeKernel Development Prongs
 
