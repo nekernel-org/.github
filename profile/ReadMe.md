@@ -1,8 +1,10 @@
-# NeKernel.
+# The NeKernel.org Project.
 
 ## Abstract:
 
-A collection of freely available C or C++ system software. We believe in free software as the only way to develop, and deliver systems software.
+A collection of freely available C or C++ system software. 
+
+We believe in free software as the only way to develop, and deliver systems software.
 
 ### The NeKernel Development Framework:
 
