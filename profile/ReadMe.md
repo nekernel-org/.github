@@ -4,7 +4,9 @@
 
 A collection of freely available C or C++ system software. 
 
-We believe in free software as the only way to develop, and deliver systems software.
+We believe in free software as the only way to design, develop, and ship production-level systems software.
+
+As of 2026, NeKernel, NeBuild, NeBoot, and Nectar are functional. Check the primers or wiki for guidance on how to install/develop on NeKernel.
 
 ### The NeKernel Development Framework:
 
