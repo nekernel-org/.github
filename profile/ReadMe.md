@@ -1,4 +1,4 @@
-# The NeKernel Project.
+# NeKernel.org
 
 ## Abstract:
 
