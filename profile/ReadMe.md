@@ -19,5 +19,6 @@ You must follow those rules in order to contribute to NeKernel projects:
 ### Links:
 
 - [www.nekernel.org](www.nekernel.org): The NeKernel.org website.
+- [docs.nekernel.org](docs.nekernel.org): The NeKernel.org documentation.
 
 ###### (c) 2022-2026 Amlal El Mahrouss & NeKernel.org Authors, licensed under the Apache 2.0 license.
