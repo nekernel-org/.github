@@ -16,4 +16,8 @@ You must follow those rules in order to contribute to NeKernel projects:
 - Each **Components** must be designed as cleanly extensible.  
 - New **Software Components** must be integrated without rewriting the codebase as a whole.
 
+### Links:
+
+- [www.nekernel.org](www.nekernel.org): The NeKernel.org website.
+
 ###### (c) 2022-2026 Amlal El Mahrouss & NeKernel.org Authors, licensed under the Apache 2.0 license.
