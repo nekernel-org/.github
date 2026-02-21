@@ -15,7 +15,7 @@ NeKernel is free software, but friendly to companies, if you find NeKernel to be
 ## Contributing:
 
 You're welcome to contribute!
-Join our [discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
+Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
 ## Resources:
 
