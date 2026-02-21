@@ -21,8 +21,8 @@ Join our [discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 More information/guidance can be found at:
 
 - [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The NeKernel.org Discord.
-- [nekernel.org](nekernel.org): The NeKernel Website.
-- [docs.nekernel.org](docs.nekernel.org): The NeKernel Sources documentation.
+- [https://nekernel.org](nekernel.org): The NeKernel Website.
+- [https://docs.nekernel.org](docs.nekernel.org): The NeKernel Sources documentation.
 
 ## The NeKernel Framework:
 
