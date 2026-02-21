@@ -5,7 +5,7 @@
 A collection of freely available C or C++ system software for companies and teams alike, NeKernel is an OS stack that already functions for your needs.
 In addition, the primers and wiki are available to guide your team guidance and help on how to install/develop/integrate NeKernel sources.
 
-## Licensing and Supporting NeKernel and their maintainers:
+## Licensing and Supporting:
 
 NeKernel is free software, but friendly to companies, if you find NeKernel to be useful for your endeavors, please support the maintainers via GitHub Sponsors.
 
