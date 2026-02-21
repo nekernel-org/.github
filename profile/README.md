@@ -4,7 +4,7 @@
 
 A collection of freely available C or C++ system software for companies and teams alike, NeKernel boots and runs as of 2026.
 
-In addition, the primers, and wiki are available to guide you and your team for guidnace, and help on how to install/develop/integrate NeKernel sources.
+In addition of the primers and wiki, there are guides made to teach you and your team how to develop on NeKernel sources.
 
 ## Licensing and Supporting:
 
