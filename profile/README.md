@@ -1,17 +1,17 @@
-# The NeKernel.org.
+# The Ne.org.
 
-[![NeKernel.org - WWW](https://img.shields.io/static/v1?label=NeKernel.org&message=WWW&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
-[![NeKernel.org - SRC](https://img.shields.io/static/v1?label=NeKernel.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/nekernel-org/src)
+[![Ne.org - WWW](https://img.shields.io/static/v1?label=Ne.org&message=WWW&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
+[![Ne.org - SRC](https://img.shields.io/static/v1?label=Ne.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/nekernel-org/src)
 
 ## Abstract:
 
-The NeKernel.org provides a collection of freely available systems software for companies and teams alike.
+The Ne.org provides a collection of freely available systems software for companies and teams alike.
 
-In addition to that, there are primers and wiki, which teaches you how to use NeKernel.org modules.
+In addition to that, there are primers and wiki, which teaches you how to use Ne.org modules.
 
 ## Licensing and Supporting:
 
-NeKernel is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
+Ne.org is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
 
 - [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
 
@@ -24,8 +24,8 @@ Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 
 More information/guidance can be found at:
 
-- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The NeKernel.org Discord.
-- [https://nekernel.org](nekernel.org): The NeKernel Website.
-- [https://docs.nekernel.org](docs.nekernel.org): The NeKernel Sources documentation.
+- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.org Discord.
+- [https://www.nekernel.org](www.nekernel.org): The Ne.org Website.
+- [https://docs.nekernel.org](docs.nekernel.org): The Ne.org API documentation.
 
-###### (c) 2022-2026 Amlal El Mahrouss & NeKernel.org Authors, licensed under the Apache 2.0 license.
+###### (c) 2022-2026 Amlal El Mahrouss & Ne.org Authors, licensed under the Apache 2.0 license.
