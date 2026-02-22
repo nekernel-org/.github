@@ -5,7 +5,7 @@
 
 ## Abstract:
 
-The NeKernel.org provides a collection of freely available software for companies and teams alike.
+The NeKernel.org provides a collection of freely available systems software for companies and teams alike.
 
 In addition to that, there are primers and wiki, which teaches you how to use NeKernel.org modules.
 
