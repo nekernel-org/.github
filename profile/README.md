@@ -28,4 +28,8 @@ More information/guidance can be found at:
 - [https://www.nekernel.org](https://www.nekernel.org): The Ne.org Website.
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne.org API documentation.
 
+## Sister Projects:
+
+The Open C++ Libraries is maintained by Ne.org maintainers: [github.com/ocl-org](github.com/ocl-org).
+
 ###### (c) 2022-2026 Amlal El Mahrouss & Ne.org Authors, licensed under the Apache 2.0 license.
