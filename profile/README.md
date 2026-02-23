@@ -26,6 +26,6 @@ More information/guidance can be found at:
 
 - [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.org Discord.
 - [https://www.nekernel.org](www.nekernel.org): The Ne.org Website.
-- [https://docs.nekernel.org](docs.nekernel.org): The Ne.org API documentation.
+- [https://docs.src.nekernel.org](docs.src.nekernel.org): The Ne.org NeKernel API documentation.
 
 ###### (c) 2022-2026 Amlal El Mahrouss & Ne.org Authors, licensed under the Apache 2.0 license.
