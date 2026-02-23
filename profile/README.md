@@ -11,12 +11,6 @@ The Ne.org provides a collection of freely available systems software for compan
 
 In addition to that, there are primers and wiki, which teaches you how to use Ne.org modules.
 
-## Licensing and Supporting:
-
-Ne.org is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
-
-- [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
-
 ## Contributing:
 
 You're welcome to contribute!
@@ -29,6 +23,12 @@ More information/guidance can be found at:
 - [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.org Discord.
 - [https://www.nekernel.org](https://www.nekernel.org): The Ne.org Website.
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne.org API documentation.
+
+## Licensing and Supporting:
+
+Ne.org is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
+
+- [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
 
 ## Sister Projects:
 
