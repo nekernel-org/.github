@@ -1,22 +1,22 @@
 # The Ne.org.
 
-## Home of NeKernel and the Nectar language.
+## Home of NeKernel and Nectar language.
 
 [![Ne.org - WWW](https://img.shields.io/static/v1?label=Ne.org&message=WWW&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.org - SRC](https://img.shields.io/static/v1?label=Ne.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/nekernel-org/src)
 
-## Abstract:
+## Free, Forever.
 
-The Ne.org provides a collection of freely available systems software for companies and teams alike.
+The Ne.org community provides a collection of freely available systems software for companies and teams alike.
 
 In addition to that, there are primers and wiki, which teaches you how to use Ne.org modules.
 
-## Contributing:
+## Join us!
 
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
-## Resources:
+## Our Resources:
 
 More information/guidance can be found at:
 
@@ -24,13 +24,13 @@ More information/guidance can be found at:
 - [https://www.nekernel.org](https://www.nekernel.org): The Ne.org Website.
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne.org API documentation.
 
-## Licensing and Supporting:
+## Support us:
 
 Ne.org is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
 
 - [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
 
-## Sister Projects:
+## Other Projects:
 
 The Open C++ Libraries is maintained by Ne.org maintainers: [github.com/ocl-org](github.com/ocl-org).
 
