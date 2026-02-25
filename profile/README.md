@@ -1,9 +1,11 @@
 # The Ne.org
 
+[![](https://dcbadge.limes.pink/api/server/RvCcseXX8h)]([https://discord.gg/RvCcseXX8h](https://discord.gg/RvCcseXX8h))
+
 ## Home of NeKernel and Nectar language.
 
-[![Ne.org - WWW](https://img.shields.io/static/v1?label=Ne.org&message=WWW&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
-[![Ne.org - SRC](https://img.shields.io/static/v1?label=Ne.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/nekernel-org/src)
+[![Ne.org - Web](https://img.shields.io/static/v1?label=Ne.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
+[![Ne.org - Src](https://img.shields.io/static/v1?label=Ne.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/nekernel-org/src)
 
 ## Free, Forever.
 
