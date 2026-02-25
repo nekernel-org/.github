@@ -1,4 +1,4 @@
-# The Ne.org.
+# The Ne.org
 
 ## Home of NeKernel and Nectar language.
 
