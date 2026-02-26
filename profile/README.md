@@ -34,6 +34,8 @@ Ne.org is free software, but if you find it to be useful for your endeavors, ple
 
 ## Other Projects:
 
-The Open C++ Libraries is maintained by Ne.org maintainers: [github.com/ocl-org](github.com/ocl-org).
+The Open C++ Libraries is maintained by Ne.org: [https://github.com/ocl-org](https://github.com/ocl-org).
+
+The CI/CD as well is part of Ne.org: [https://github.com/nekernel-ci-org](https://github.com/nekernel-ci-org).
 
 ###### (c) 2022-2026 Amlal El Mahrouss & Ne.org Authors, licensed under the Apache 2.0 license.
