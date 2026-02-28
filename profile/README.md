@@ -5,9 +5,9 @@
 ## Home of the NeKernel system and Nectar language!
 ### Note: We also maintain Open C++ Libraries, check it out at https://github.com/ocl-org!
 
-
 [![Ne.org - Web](https://img.shields.io/static/v1?label=Ne.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.org - Src](https://img.shields.io/static/v1?label=Ne.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/nekernel-org/src)
+[![Amlal - Sponsor](https://img.shields.io/static/v1?label=Amlal&message=Sponsor&color=101010&logo=cplusplus&logoColor=fffffff)](ttps://github.com/sponsors/amlel-el-mahrouss)
 
 ## Ne.org is Free. Forever.
 
@@ -27,12 +27,6 @@ More information/guidance can be found at:
 - [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.org Discord.
 - [https://www.nekernel.org](https://www.nekernel.org): The Ne.org Website.
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne.org API documentation.
-
-## Support us:
-
-Ne.org is free software, but if you find it to be useful for your endeavors, please support us via GitHub Sponsors.
-
-- [@amlel-el-mahrouss](https://github.com/sponsors/amlel-el-mahrouss)
 
 ## Other Projects:
 
