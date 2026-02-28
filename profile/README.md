@@ -7,7 +7,6 @@
 
 [![Ne.org - Web](https://img.shields.io/static/v1?label=Ne.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.org - Src](https://img.shields.io/static/v1?label=Ne.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://github.com/nekernel-org/src)
-[![Amlal - Sponsor](https://img.shields.io/static/v1?label=Amlal&message=Sponsor&color=101010&logo=cplusplus&logoColor=fffffff)](ttps://github.com/sponsors/amlel-el-mahrouss)
 
 ## Ne.org is Free. Forever.
 
