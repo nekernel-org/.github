@@ -30,8 +30,8 @@ More information/guidance can be found at:
 
 ## Other Projects:
 
-The Open C++ Libraries is maintained by Ne.org: [https://github.com/ocl-org](https://github.com/ocl-org).
+The Open C++ Libraries is maintained by Ne.org: [https://github.com/ocl-foss-org](https://github.com/ocl-foss-org).
 
-The CI/CD as well is part of Ne.org: [https://github.com/nekernel-ci-org](https://github.com/nekernel-ci-org).
+The CI/CD as well is part of Ne.org: [https://github.com/ne-ci-org](https://github.com/ne-ci-org).
 
 ###### (c) 2022-2026 Amlal El Mahrouss & Ne.org Authors, licensed under the Apache 2.0 license.
