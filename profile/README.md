@@ -2,8 +2,8 @@
 
 [![](https://dcbadge.limes.pink/api/server/RvCcseXX8h)]([https://discord.gg/RvCcseXX8h](https://discord.gg/RvCcseXX8h))
 
-[![Ne.org - Web](https://img.shields.io/static/v1?label=Ne.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
-[![Ne.org - Src](https://img.shields.io/static/v1?label=Ne.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
+[![Ne.org - Web](https://img.shields.io/static/v1?label=Ne.org&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
+[![Ne.org - Src](https://img.shields.io/static/v1?label=Ne.org&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
 
 ## Ne.org is Free. Forever.
 
