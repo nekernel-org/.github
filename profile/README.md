@@ -2,8 +2,6 @@
 
 [![](https://dcbadge.limes.pink/api/server/RvCcseXX8h)]([https://discord.gg/RvCcseXX8h](https://discord.gg/RvCcseXX8h))
 
-
-
 [![Ne.org - Web](https://img.shields.io/static/v1?label=Ne.org&message=Web&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.org - Src](https://img.shields.io/static/v1?label=Ne.org&message=Src&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org)
 
@@ -13,7 +11,7 @@ The Ne.org community provides a collection of freely available systems software 
 
 In addition to that, there are primers and wiki, which teaches you how to use Ne.org modules.
 
-## Join us!
+## Join us:
 
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
