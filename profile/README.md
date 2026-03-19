@@ -22,9 +22,9 @@ Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 
 More information/guidance can be found at:
 
-- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.org Discord.
-- [https://www.nekernel.org](https://www.nekernel.org): The Ne.org Website.
-- [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne.org API.
+- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne System Discord.
+- [https://src.nekernel.org](https://src.nekernel.org): The Ne System Website.
+- [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne System API.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The Ne System Primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar Primer.
 
