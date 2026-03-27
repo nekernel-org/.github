@@ -11,22 +11,22 @@ The Ne.org community provides a collection of freely available systems software 
 
 In addition to that, there are primers and wiki, which teaches you how to use Ne.org modules.
 
-## Join us:
+## Connect:
 
 Please give us a follow or a star if you appreciate what we do!
 
 You're welcome to contribute!
-Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
+Join our [discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
 ## Our Resources:
 
 More information/guidance can be found at:
 
-- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne System Discord.
-- [https://src.nekernel.org](https://src.nekernel.org): The Ne System Website.
+- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne System discord.
+- [https://src.nekernel.org](https://src.nekernel.org): The Ne System website.
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne System API.
-- [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The Ne System Primer.
-- [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar Primer.
+- [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The Ne System primer.
+- [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
 
 ## Other Projects:
 
