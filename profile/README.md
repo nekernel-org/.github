@@ -5,7 +5,7 @@
 [![Ne.app - Web](https://img.shields.io/static/v1?label=Ne.app&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.app - Src](https://img.shields.io/static/v1?label=Ne.app&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
 
-## NeSystem is Free. Forever.
+## About:
 
 The NeSystem provides a collection of freely available systems software for companies and teams alike.
 
@@ -34,4 +34,4 @@ The Open C++ Libraries is maintained by Ne.app: [https://github.com/ocl-foss-org
 
 The CI/CD as well is part of Ne.app: [https://github.com/ne-ci-org](https://github.com/ne-ci-org).
 
-###### (c) 2022-2026 Amlal El Mahrouss & Contributors, licensed under the Apache 2.0 license.
+###### (c) 2022-2026 Amlal El Mahrouss & Contributors, licensed under the Apache 2.0.
