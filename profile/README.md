@@ -16,7 +16,7 @@ In addition to that, there are primers and wiki, which teaches you how to use Ne
 Please give us a follow or a star if you appreciate what we do!
 
 You're welcome to contribute!
-Join our [discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
+Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
 ## Our Resources:
 
