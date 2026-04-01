@@ -28,7 +28,7 @@ More information/guidance can be found at:
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The Ne System primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
 
-## Other Projects:
+## Other:
 
 The Open C++ Libraries is maintained by Ne.app: [https://github.com/ocl-foss-org](https://github.com/ocl-foss-org).
 
