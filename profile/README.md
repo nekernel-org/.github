@@ -1,7 +1,5 @@
 # Ne.app
 
-[![](https://dcbadge.limes.pink/api/server/RvCcseXX8h)]([https://discord.gg/RvCcseXX8h](https://discord.gg/RvCcseXX8h))
-
 [![Ne.app - Web](https://img.shields.io/static/v1?label=Ne.app&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.app - Src](https://img.shields.io/static/v1?label=Ne.app&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
 
@@ -18,7 +16,7 @@ Please give us a follow or a star if you appreciate what we do!
 You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
 
-## Our Resources:
+## Resources:
 
 More information/guidance can be found at:
 
@@ -28,7 +26,7 @@ More information/guidance can be found at:
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The Ne System primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
 
-## Other:
+## Others:
 
 The Open C++ Libraries is maintained by Ne.app: [https://github.com/ocl-foss-org](https://github.com/ocl-foss-org).
 
