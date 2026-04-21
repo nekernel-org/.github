@@ -20,11 +20,11 @@ Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 
 More information/guidance can be found at:
 
-- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne System discord.
-- [https://src.nekernel.org](https://src.nekernel.org): The Ne System website.
-- [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The Ne System API.
-- [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The Ne System primer.
-- [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
+- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app Discord.
+- [https://src.nekernel.org](https://src.nekernel.org): The NeSystem Website.
+- [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API.
+- [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem Primer.
+- [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar Primer.
 
 ## Others:
 
