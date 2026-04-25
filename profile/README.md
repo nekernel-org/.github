@@ -29,7 +29,8 @@ More information/guidance can be found at:
 ## Others:
 
 The Open C++ Libraries is maintained by Ne.app: [https://github.com/ocl-foss](https://github.com/ocl-foss).
-
 The CI/CD as well is part of Ne.app: [https://github.com/ne-app-ci](https://github.com/ne-app-ci).
+
+Ne.app has its own GitHub org as well: [https://github.com/ne-app](https://github.com/ne-app).
 
 ###### (c) 2022-2026 Amlal El Mahrouss & Contributors, licensed under the Apache 2.0.
