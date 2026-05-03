@@ -20,7 +20,7 @@ Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate wit
 
 More information/guidance can be found at:
 
-- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app Discord.
+- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app Community Discord.
 - [https://src.nekernel.org](https://src.nekernel.org): The NeSystem Website.
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem Primer.
