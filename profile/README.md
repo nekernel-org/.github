@@ -5,16 +5,13 @@
 
 ## About:
 
-The NeSystem provides a collection of freely available systems software for companies and teams alike.
-
-In addition to that, there are primers and wiki, which teaches you how to use NeSystem modules.
+Ne.app distributes the open-source NeSystem, which provides a collection of freely available systems software for companies and internal teams alike.
+In addition to that, there are primers and wiki, which teaches you how to use NeSystem modules by Ne.app.
 
 ## Connect:
 
-Please give us a follow or a star if you appreciate what we do!
-
-You're welcome to contribute!
 Join our [Discord](https://discord.gg/uD76Qweght) if you wish to collaborate with other contributors.
+Everyone is welcome !
 
 ## Resources:
 
