@@ -20,10 +20,10 @@ We follow the Ne.app Open-Source code of conduct.
 More information/guidance can be found at:
 
 - [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app users community discord.
-- [https://src.nekernel.org](https://src.nekernel.org): The NeSystem Website.
+- [https://src.nekernel.org](https://src.nekernel.org): The NeSystem website.
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API.
-- [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem Primer.
-- [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar Primer.
+- [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
+- [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
 - [https://ant.ne-app.eu](https://ant.ne-app.eu) The Ne.app Mobile OS, a more advanced offering of NeSystem.
 
 ## Others:
