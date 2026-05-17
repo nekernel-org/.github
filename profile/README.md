@@ -24,7 +24,7 @@ More information/guidance can be found at:
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
-- [https://ant.ne-app.eu](https://ant.ne-app.eu) The Ne.app Mobile OS, a more advanced offering of NeSystem.
+- [https://ant.ne-app.eu](https://ant.ne-app.eu) 'ant' Mobile OS the commercial offering of [NeSystem](https://git.src.nekernel.org/src).
 
 ## Others:
 
