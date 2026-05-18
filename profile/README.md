@@ -21,12 +21,18 @@ More information/guidance can be found at:
 
 - [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app users community discord.
 - [https://src.nekernel.org](https://src.nekernel.org): The NeSystem website.
-- [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
 - [https://ant.ne-app.eu](https://ant.ne-app.eu) 'ant' Mobile OS the commercial offering of [NeSystem](https://git.src.nekernel.org/src).
 
-## Others:
+## Archived links
+
+These links aren't used or maintained anymore.
+
+- [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API reference.
+- [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org): The OCL API reference.
+
+## Other Information
 
 The Open C++ Libraries is maintained by Ne.app: [https://github.com/ocl-foss](https://github.com/ocl-foss).
 
