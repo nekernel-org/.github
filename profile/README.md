@@ -23,8 +23,11 @@ More information/guidance can be found at:
 - [https://src.nekernel.org](https://src.nekernel.org): The NeSystem website.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
-- [https://ant.ne-app.eu](https://ant.ne-app.eu) 'ant' Mobile OS the commercial offering of [NeSystem](https://git.src.nekernel.org/src).
 
+## Other
+
+- [https://ant.ne-app.eu](https://ant.ne-app.eu) 'ant' is the commercial offering of [NeSystem](https://git.src.nekernel.org/src).
+  
 ## Archived links
 
 These links aren't used or maintained anymore.
