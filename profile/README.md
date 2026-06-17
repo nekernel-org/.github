@@ -3,19 +3,19 @@
 [![Ne.app - Web](https://img.shields.io/static/v1?label=Ne.app&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.app - Src](https://img.shields.io/static/v1?label=Ne.app&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
 
-## Get Involved
+## Get Involved:
 
 Join Ne.app's community [discord](https://discord.gg/uD76Qweght) to collaborate with other contributors.
 Everyone is welcome !
 
-## About us
+## About us:
 
 Ne.app distributes the open-core NeSystem, which provides a collection of freely available systems software for companies and internal teams alike.
 In addition to that, there are primers and wiki, which teaches you how to use NeSystem modules by Ne.app.
 
 We follow the Ne.app Open-Source code of conduct.
 
-## Resources on Contributing
+## Resources on Contributing:
 
 More information/guidance can be found at:
 
@@ -24,18 +24,18 @@ More information/guidance can be found at:
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
 
-## Other
+## Other Links:
 
 - [https://ant.ne-app.eu](https://ant.ne-app.eu) 'ant' is the commercial offering of [NeSystem](https://git.src.nekernel.org/src).
   
-## Archived links
+## Archived Links:
 
 These links aren't used or maintained anymore.
 
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API reference.
 - [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org): The OCL API reference.
 
-## Other Information
+## Other Information:
 
 The Open C++ Libraries is maintained by Ne.app: [https://github.com/open-cpp-libraries](https://github.com/open-cpp-libraries).
 
