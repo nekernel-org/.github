@@ -26,7 +26,8 @@ More information/guidance can be found at:
 
 ## Other Links:
 
-- [https://ant.ne-app.eu](https://ant.ne-app.eu) 'ant' is the commercial offering of [NeSystem](https://git.src.nekernel.org/src).
+- 'ant' is the commercial offering of [NeSystem](https://git.src.nekernel.org/src), available via reaching out to us.
+- An API is being rolled out for various tasks (solver, build, compute, etc.) Stay tuned!
   
 ## Archived Links:
 
