@@ -40,7 +40,7 @@ These links aren't used or maintained anymore.
 
 The Open C++ Libraries is maintained by Ne.app: [https://github.com/open-cpp-libraries](https://github.com/open-cpp-libraries).
 
-Ne.app's main github repository is located here: [https://github.com/ne-app-hpc](https://github.com/ne-app-hpc).
+Ne.app's main GitHub repository is located here: [https://github.com/ne-app](https://github.com/ne-app).
 
 The CI/CD as well is maintained by Ne.app: [https://github.com/ne-app-ci](https://github.com/ne-app-ci).
 
