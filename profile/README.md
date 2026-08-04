@@ -1,4 +1,4 @@
-![/banner](/banner.png)
+![/banner.png](/banner.png)
 
 [![Ne.app - Web](https://img.shields.io/static/v1?label=Ne.app&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.app - Src](https://img.shields.io/static/v1?label=Ne.app&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
@@ -19,14 +19,14 @@ We follow the Ne.app Open-Source code of conduct.
 
 More information/guidance can be found at:
 
-- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app users community discord.
+- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app users community Discord.
 - [https://src.nekernel.org](https://src.nekernel.org): The NeSystem website.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The Nectar primer.
 
 ## Other Links:
 
-- 'ant' is the commercial offering of [NeSystem](https://git.src.nekernel.org/src), available via reaching out to us.
+- 'AntOS' is the commercial offering of [NeSystem](https://git.src.nekernel.org/src), available via reaching out to us.
 - An API is being rolled out for various tasks (solver, build, compute, etc.) Stay tuned!
   
 ## Archived Links:
