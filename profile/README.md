@@ -10,10 +10,8 @@ Everyone is welcome !
 
 ## About us:
 
-Ne.app distributes the open-core NeSystem, which provides a collection of freely available systems software for companies and internal teams alike.
+Ne.app distributes the open-core NeSystem and ANT, which provides a collection of freely available systems software for companies and internal teams alike.
 In addition to that, there are primers and wiki, which teaches you how to use NeSystem modules by Ne.app.
-
-We follow the Ne.app Open-Source code of conduct.
 
 ## Resources on Contributing:
 
