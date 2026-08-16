@@ -21,18 +21,13 @@ More information/guidance can be found at:
 - [https://src.nekernel.org](https://src.nekernel.org): The NeSystem website.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The NCC/VN primer.
-
-## Other Links:
-
-- 'ANT' is the successor of [NeSystem](https://git.src.nekernel.org/src), the shared-source available via reaching out to us.
-- An API is being rolled out for various tasks (solver, build, compute, etc.) Stay tuned!
+- [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org): The OCL API reference.
   
 ## Archived Links:
 
 These links aren't used or maintained anymore.
 
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API reference.
-- [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org): The OCL API reference.
 
 ## Other Information:
 
