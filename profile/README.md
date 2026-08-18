@@ -3,11 +3,6 @@
 [![Ne.app - Web](https://img.shields.io/static/v1?label=Ne.app&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.app - Src](https://img.shields.io/static/v1?label=Ne.app&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
 
-## Get Involved:
-
-Join Ne.app's community [discord](https://discord.gg/uD76Qweght) to collaborate with other contributors.
-Everyone is welcome !
-
 ## About us:
 
 Ne.app distributes the open-core NeSystem and ANT, which provides a collection of freely available systems software for companies and internal teams alike.
