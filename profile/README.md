@@ -12,7 +12,7 @@ In addition to that, there are primers and wiki, which teaches you how to use Ne
 
 More information/guidance can be found at:
 
-- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app users community Discord.
+- [https://discord.gg/uD76Qweght](https://discord.gg/uD76Qweght): The Ne.app User Group on Discord.
 - [https://src.nekernel.org](https://src.nekernel.org): The NeSystem website.
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The NCC/VN primer.
