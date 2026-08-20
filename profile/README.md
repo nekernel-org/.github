@@ -3,12 +3,12 @@
 [![Ne.app - Web](https://img.shields.io/static/v1?label=Ne.app&message=WEB&color=101010&logo=cplusplus&logoColor=fffffff)](https://nekernel.org)
 [![Ne.app - Src](https://img.shields.io/static/v1?label=Ne.app&message=SRC&color=101010&logo=cplusplus&logoColor=fffffff)](https://git.src.nekernel.org/src)
 
-## About us:
+## About Us
 
-Ne.app distributes the open-core NeSystem and ANT, which provides a collection of freely available systems software for companies and internal teams alike.
+Ne.app distributes the open-core NeSystem and proprietary ANT system, which provides a collection of freely available systems software for companies and internal teams alike.
 In addition to that, there are primers and wiki, which teaches you how to use NeSystem modules by Ne.app.
 
-## Resources on Contributing:
+## Resources on Contributing
 
 More information/guidance can be found at:
 
@@ -18,17 +18,15 @@ More information/guidance can be found at:
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The NCC/VN primer.
 - [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org): The OCL API reference.
   
-## Archived Links:
+## Archived Links
 
 These links aren't used or maintained anymore.
 
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API reference.
 
-## Other Information:
+## Other Informations
 
 The Open C++ Libraries is maintained by Ne.app: [https://github.com/open-cpp-libraries](https://github.com/open-cpp-libraries).
-
-Ne.app's main GitHub repository is located here: [https://github.com/ne-app](https://github.com/ne-app).
 
 The CI/CD as well is maintained by Ne.app: [https://github.com/ne-app-ci](https://github.com/ne-app-ci).
 
