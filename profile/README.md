@@ -9,7 +9,7 @@ Ne.app is a systems software company that distributes the [NeSystem](https://src
 
 In addition to that, there are primers and wiki, which teaches you how to use the NeSystem and Ant by Ne.app.
 
-## Resources on Contributing
+## Resources
 
 More information/guidance can be found at:
 
@@ -18,11 +18,6 @@ More information/guidance can be found at:
 - [https://primer.src.nekernel.org](https://primer.src.nekernel.org): The NeSystem primer.
 - [https://primer.nectar.nekernel.org](https://primer.nectar.nekernel.org): The NCC/VN primer.
 - [https://docs.ocl.nekernel.org](https://docs.ocl.nekernel.org): The OCL API reference.
-  
-## Archived Links
-
-These links aren't used or maintained anymore.
-
 - [https://docs.src.nekernel.org](https://docs.src.nekernel.org): The NeSystem API reference.
 
 ## Other Informations
