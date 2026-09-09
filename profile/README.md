@@ -5,7 +5,7 @@
 
 ## About Ne.app
 
-Ne.app is a systems software company that distributes the [NeAnt](https://src.nekernel.org) and proprietary [Ant](https://ant.ne-app.eu) OS system distributions.
+Ne.app is a systems software company that distributes the [NeAnt](https://src.nekernel.org) and proprietary [Ant](https://ant.ne-app.eu) system distributions.
 
 In addition to that, there are primers and wiki, which teaches you how to use the NeAnt and Ant by Ne.app.
 
